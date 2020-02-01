@@ -3,7 +3,7 @@ package cardsagainstdiscord
 func init() {
 	pack := &CardPack{
 		Name:        "sanity",
-		Description: "Cards against our sanity: volume one",
+		Description: "Cards against our sanity: volume 1",
 		Prompts: []*PromptCard{
 			&PromptCard{Prompt: `%s should never be allowed in a convention.`},
 			&PromptCard{Prompt: `%s, now happening at a convention near you!`},
