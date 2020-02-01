@@ -2,10 +2,10 @@ package cardsagainstdiscord
 
 func init() {
 	pack := &CardPack{
-		Name:        “original“,
-		Description: “CAH Original”,
+		Name:        "og",
+		Description: "CAH OG extension",
 		Prompts: []*PromptCard{
-&PromptCard{Prompt: `%s?  There's an app for that.`},
+&PromptCard{Prompt: `%s - theres an app for that.`},
 &PromptCard{Prompt: `Why can't I sleep at night?`},
 &PromptCard{Prompt: `What's that smell?`},
 &PromptCard{Prompt: `I got 99 problems but %s ain't one.`},
