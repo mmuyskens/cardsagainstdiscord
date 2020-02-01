@@ -3,7 +3,7 @@ package cardsagainstdiscord
 func init() {
 	pack := &CardPack{
 		Name:        "og",
-		Description: "CAH OG extension",
+		Description: "CAH OG Cards",
 		Prompts: []*PromptCard{
 &PromptCard{Prompt: `%s - theres an app for that.`},
 &PromptCard{Prompt: `Why can't I sleep at night?`},
