@@ -887,7 +887,7 @@ func init() {
 			`Looking in the mirror, applying lipstick, and whispering "tonight, you will have sex with Tom Cruise."`,
 			`Loose lips`,
 			`Lumberjack fantasies`,
-			`Lunchables™`,
+			`Lunchables`,
 			`LYNX® Body Spray`,
 			`Mad cow disease`,
 			`Madeleine McCann`,
