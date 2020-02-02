@@ -10,7 +10,7 @@ func init() {
 		Responses: []ResponseCard{			
 `Reaper`,
 `Marky Mark`,
-`Raxinll`,
+`RaxinII`,
 `Nadine`,
 `Bloodlust`,
 		},
