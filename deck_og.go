@@ -278,7 +278,7 @@ func init() {
 &PromptCard{Prompt: `%s. All the cool kids are doing it.`},
 &PromptCard{Prompt: `So I was %s in my cubicle at work, and suddenly %s!`},
 &PromptCard{Prompt: `Baskin Robbins just added a 32nd flavor: %s!`},
-&PromptCard{Prompt: `I can drive and %s%s%s%s at the same time.`},
+&PromptCard{Prompt: `I can drive and %s at the same time.`},
 &PromptCard{Prompt: `%s ain't nothin' to fuck wit'!`},	
 		},
 
