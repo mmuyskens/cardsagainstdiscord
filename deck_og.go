@@ -1293,7 +1293,7 @@ func init() {
 `The thin veneer of situational causality that underlies porn.`,
 `Girls that always be textin'.`,
 `Blowing some dudes in an alley.`,
-`Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy.`,
+`Drinking ten 5-hour ENERGY to get fifty continuous hours of energy.`,
 `Sneezing, farting, and coming at the same time.`,
 `A freshly-filled diaper`,
 `Glue`,
