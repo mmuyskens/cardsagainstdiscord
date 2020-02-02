@@ -125,7 +125,7 @@ func init() {
 &PromptCard{Prompt: `My mom freaked out when she looked at my browser history and found %s.com/%s.`},
 &PromptCard{Prompt: `I went from %s to %s, all thanks to %s.`},
 &PromptCard{Prompt: `Members of New York's social elite are paying thousands of dollars just to experience %s.`},
-&PromptCard{Prompt: `This month's Cosmo: &#34;Spice up your sex life by bringing %s into the bedroom.&#34;`},
+&PromptCard{Prompt: `This month's Cosmo: Spice up your sex life by bringing %s into the bedroom.&#34;`},
 &PromptCard{Prompt: `Little Miss Muffet Sat on a tuffet, Eating her curds and %s.`},
 &PromptCard{Prompt: `If God didn't want us to enjoy %s, he wouldn't have given us %s.`},
 &PromptCard{Prompt: `My country, 'tis of thee, sweet land of %s.`},
